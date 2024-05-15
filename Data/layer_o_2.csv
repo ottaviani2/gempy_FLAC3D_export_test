@@ -1,0 +1,5 @@
+X,Y,Z,azimuth,dip,polarity,formation
+180,-40,65,0,70,1,Main_Fault
+200,0,52,0,0,1,altered_bedrock
+200,0,65,0,0,1,clay_layer
+200,0,90,0,0,1,gravely_layer
